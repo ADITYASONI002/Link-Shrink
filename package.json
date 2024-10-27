@@ -1,0 +1,20 @@
+{
+  "name": "link-shrink",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0",
+    "joi": "^17.13.3",
+    "redis": "^4.7.0",
+    "shortid": "^2.2.16"
+  }
+}
